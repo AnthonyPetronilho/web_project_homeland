@@ -11,6 +11,6 @@ enquanto a segunda oferece um conteúdo mais detalhado.
 - Metodoligia BEM
 - Layout responsivo
 
-# Link para o GitHub Pages
+## Link para o GitHub Pages
 
 https://anthonypetronilho.github.io/web_project_homeland/
