@@ -6,7 +6,7 @@
 }
 
 .lead__title {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-weight: 900;
   font-size: 96px;
   color: #fff;
@@ -19,7 +19,7 @@
 }
 
 .lead__subtitle {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 30px;
   color: #fff;
