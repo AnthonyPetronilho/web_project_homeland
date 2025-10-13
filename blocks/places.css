@@ -1,0 +1,30 @@
+.places {
+  max-width: 984px;
+}
+
+.place {
+  max-width: 832px;
+  max-height: 984px;
+}
+
+.place__button {
+  border-radius: 4px;
+  padding: 13px 20px;
+  display: flex;
+  gap: 10px;
+  background: linear-gradient(90deg, #0278fe, #003a7b);
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100%;
+  color: #fff;
+}
+.place__description {
+  max-width: 484px;
+  max-height: 203px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  color: #fff;
+}
